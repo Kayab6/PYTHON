@@ -1,0 +1,8 @@
+food='biriyani'
+print(f"i love {food}")
+
+age=18
+print(f"i am {18}")
+
+price=200
+print(f"the biriyani costs ${price}")
